@@ -25,3 +25,5 @@ Link da API utilizado http://coronavirus-19-api.herokuapp.com/countries
         document.getElementById("conteudo").innerHTML = dados;
         })
 ```
+
+![js](https://user-images.githubusercontent.com/66228224/85178485-fb387680-b254-11ea-931f-c08f7e219d67.png)
