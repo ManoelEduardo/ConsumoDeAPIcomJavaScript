@@ -28,4 +28,4 @@ Link da API utilizado http://coronavirus-19-api.herokuapp.com/countries
 Para exemplo estou pesquisando na api os dados referente ao Brasil, mas poderá ser informado qualque país
 no parâmetro da função get().
 
-![js](https://user-images.githubusercontent.com/66228224/85178485-fb387680-b254-11ea-931f-c08f7e219d67.png)
+![git-repositorio](https://user-images.githubusercontent.com/66228224/85183670-e19e2b80-b262-11ea-860f-a9a1e63a7244.png)
